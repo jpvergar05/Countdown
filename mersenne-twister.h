@@ -26,7 +26,6 @@
 extern "C" {
 #endif
 
-    // Added by Prof. Hodges
     int chooseRandomNumber(int min, int max);
 
     /*
