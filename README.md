@@ -28,3 +28,37 @@ Win by reaching the target number exactly.
 Lose when no valid moves remain and the target cannot be reached.
 Replay or Exit:
 After the game ends, you can choose to play another round or quit.
+
+Bug sample output, (needs fix): 24
+1
+u
+75*6
+u
+75*4
+10-7
+U
+10-6
+300-4
+Y
+1
+25*4
+7*10
+70-7
+u
+100+10
+110*8
+880-7
+873-10
+Y
+2
+10/10
+100/4
+u
+U
+u
+100+10
+110+6
+116/4
+29+100
+n
+
